@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Niramit&family=Open+Sans&display=swap%27');
+
+nav .brand-logo{
+  width: 48px;
+  height: 48px;
+  margin: 8px;
+}
+
+.card-panel{
+  background-color: #54c460;
+}
+
+.subtitulo{
+  color: #54c460;
+}
+
+.info-box{
+  border-left: solid 6px #54c460;
+  padding: 4px;
+}
+
+.row{
+  margin-bottom: 0;
+}
+
+.material-icons{
+  font-size: 8rem;
+  color: #54c460;
+}
+
+.icon-box{
+  text-align: center;
+}
+
+thead th{
+  color: #54c460;
+}
+
+.table{
+  border-top: solid 4px #54c460;
+  margin-top: 4px;
+  margin-bottom: 6rem;
+}
+
+.btn-large{
+  height: 100%;
+  background-color: #54c460;
+}
+
+#dropdown{
+  width: 10rem !important;
+}
+
+@media only screen and (max-width: 430px) {
+
+  .btn-large h1{
+    font-size: 3rem !important;
+  }
+  
+}
